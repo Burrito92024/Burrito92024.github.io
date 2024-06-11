@@ -1,3 +1,6 @@
 body{
     background-color: rgb(118, 183, 187);
 }
+h1, h2, p {
+    text-align: center;
+  }
